@@ -57,13 +57,14 @@ We allow a grace period of 15 minutes for you to submit your solved IPython note
    * Upload your Jupyter Notebook (1 file) to [this Google form](https://forms.gle/gw15AG68h3WbmMHJ6) at the end of the exam, with all the cells already evaluated. You need to **sign in to Google** using your **EPFL credentials** in order to access the form. Please see [this EPFL Wiki](https://wiki.epfl.ch/help-gdrive-en) (accessible only from the EPFL network or via VPN if not physically on campus) for more details on how to use Google services via your EPFL credentials.   
    *Note-1: If you get a 'You need permission' message, then it means you are trying to access the Google form via a non-EPFL account. This can be fixed by opening the submission link in a private/incognito window and signing in using your EPFL credentials.*   
    *Note-2: You can correct 'typos' in your name using the "edit response" option, however, the uploaded 'ipynb' file cannot be modified. If you need to modify the ‘ipynb’ file, please create a new submission.*   
-   *Note-3: Multiple submissions are allowed. We will only consider the **latest** submission before the deadline and ignore all other previous submissions.*
+   *Note-3: Multiple submissions are allowed. We will only consider the **latest** submission before the deadline and ignore all other previous submissions.*   
+   *Note-4: Mobile phones will be allowed from 18:15 to 18:30 to allow for two-factor authentication for accessing the Google form submission utility.*
    * On successful submission, you should receive an acknowledgment email from forms-receipts-noreply@google.com. If you don't receive an acknowledgment email (check your ‘spam’ and ‘junk’ folders as well) by 19:30, please notify us by sending an email to ada-core-assistants-2023@groupes.epfl.ch.
    **We won’t accept email submissions from students with an EPFL email address, thus, make sure you test the submission utility as a part of the exam dry-run (cf. [dry-run instructions](#Dry-run-Instructions) for details).**
 * For students **without** an EPFL email address:
    * Your file has to be named (in *titlecase*) as "YourFirstName_YourLastName.ipynb". For example, if your first name is 'Abc', and last name is 'Xyz', please name your file as 'Abc_Xyz.ipynb'.   
    **Note: We won't grade your exam if the file is not properly named, thus, be extra careful in this regard.**   
-   * Send your Jupyter Notebook (1 file) via email to ada-core-assistants-2023@groupes.epfl.ch.
+   * Send your Jupyter Notebook (1 file) via email to ada-core-assistants-2023@groupes.epfl.ch. If you get an error, please instead send the email to akhil.arora@epfl.ch.
 
 ## Dry-run Instructions
 
