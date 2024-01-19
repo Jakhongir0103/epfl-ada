@@ -1,4 +1,5 @@
-# 2023
+# Applied Data Analysis CS-401
+
 The Repository contains the materials for Applied Data Analysis CS-401 course I have taken at EPFL in 2023 Fall. The repository is structured into the following sections:
 
 ### Exercises
