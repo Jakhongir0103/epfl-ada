@@ -11,4 +11,4 @@ Throughout the course, two homework assignments were given, allowing a two-week 
 ### Exam 
 This section encompasses previous year's exams (2019-2022) that I personally solved, along with the actual exam (2023) administered at the conclusion of the course. Solutions for these exams are given in the corresponding `exam.ipynb` notebook.
 
-Finally, [this](https://github.com/epfl-ada/ada-2023-project-datasquad2023) repository contains the project we did throughout the course, which we worked on for ~1.5 month in a team of 5.
+Finally, [this](https://github.com/Jakhongir0103/A-recipe-for-a-successful-tech-review-channel) repository contains the project we did throughout the course, which we worked on for ~1.5 month in a team of 5.
